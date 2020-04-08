@@ -1,4 +1,4 @@
 # DiningPhilosopher
-Solving Philosophers problems with ReentrantLock
+Solving Philosophers problems with Java 11 Concurrency
 
-Java 8: Concurrency, ReentrantLock
+Problem Statement: https://en.wikipedia.org/wiki/Dining_philosophers_problem
